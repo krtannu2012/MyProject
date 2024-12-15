@@ -12,9 +12,10 @@ Description:•Built a predictive system to assess heart attack risks based on h
 •Suggested personalized lifestyle recommendationsto mitigate risks.
 Technologies: AIML,SQL,Python.
 
-**[Project 3: Personalized Healthcare Monitoring](https://github.com/your-username/project3)** - 
-Description:Developed a chatbot using Python to assist usersin exploring restaurant menus dynamically.
-•Integrated machine learning algorithmsfor NLP, achieving 90% intent recognition accuracy.
-•Implemented personalized recommendationsto enhance user interaction and satisfaction.
-Technologies: AIML,SQL,Python.
+**[Project 3: Climate Pulse](https://github.com/krtannu/ClimatePulse.git)** - 
+Description:
+•Helped design the idea to meet farmers' needs.
+•Took part in team discussionsto ensure the platform was useful and easy to understand.
+•Helped create a clear overview of how the platform works.
+Technologies: No code development,MY SQL
 ## Contact Feel free to reach out if you have any questions or would like to collaborate! - **Email**: krtannu2012@gmail.com - **LinkedIn**: 
