@@ -19,5 +19,5 @@ Description:
 - Helped design the idea to meet farmers' needs.
 - Took part in team discussionsto ensure the platform was useful and easy to understand.
 - Helped create a clear overview of how the platform works. <br>
-- **Technologies:** No code development,MY SQL
+- **Technologies:** No code development,MY SQL,Vultr Cloud Service
 ## Contact Feel free to reach out if you have any questions or would like to collaborate! - **Email**: krtannu2012@gmail.com - **LinkedIn**: 
