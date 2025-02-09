@@ -27,11 +27,12 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 - Helped create a clear overview of how the platform works.  
 - **Technologies:** No-code development, MySQL, Vultr Cloud Service  
 
-###**[Project 4: WellNest: Smart Mental Health Capsules – IIT Madras Hackathon](https://github.com/krtannu/ClimatePulse.git)** -<br> 
+###**[Project 4: WellNest: Smart Mental Health Capsules – IIT Madras Hackathon](https://www.google.com)** -<br> 
 **Description:**  
 - Proposed an **AI-powered relaxation pod system** for student mental well-being.  
 - Researching **IoT, VR, and AI-driven mood personalization** techniques.  
-- Designed **compact, soundproof capsules** for hostel spaces.  
+- Designed **compact, soundproof capsules** for hostel spaces.
+- Research is ongoing, and details are available upon request.
 - **Technologies:** AI/ML, IoT, VR  
 
 ## Contact  
