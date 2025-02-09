@@ -45,7 +45,7 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 ---
 
 ## 📞 Contact  
-Feel free to reach out if you have any questions or would like to collaborate!  
+Feel free to reach out if you have any questions.  
 
 📧 **Email:** krtannu2012@gmail.com  
 🔗 **LinkedIn:** [Kumari Tannu](https://www.linkedin.com/in/kumari-tannu-938281295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
