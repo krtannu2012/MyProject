@@ -34,12 +34,12 @@ Welcome to my portfolio! Here you'll find links to my key projects, each showcas
 
 ---
 
-### **[WellNest: Smart Mental Health Capsules – IIT Madras Hackathon](https://www.google.com)**
+### **[WellNest: Smart Mental Health Capsules – IIT Madras Hackathon](https://github.com/krtannu2012/WellNest-Smart-Mental-Health-Capsules)**
 📝 **Description:**  
 - Proposed an **AI-powered relaxation pod system** for **student mental well-being**.  
 - Researching **IoT, VR, and AI-driven mood personalization** techniques.  
 - Designed **compact, soundproof capsules** for hostel spaces.  
-- 🔒 **Research is ongoing, and details are available upon request.**  
+- Features real-time biofeedback monitoring, adaptive environment control, and VR-based therapy.
 🔧 **Technologies:** AI/ML, IoT, VR  
 
 ---
