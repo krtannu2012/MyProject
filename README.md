@@ -248,7 +248,6 @@ I'm a **Computer Science Engineering student** with a passion for solving real-w
 <a href="mailto:krtannu2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
-<img src="https://raw.githubusercontent.com/jamesgeorge007/github-activity-readme/master/generated/rainbow-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
