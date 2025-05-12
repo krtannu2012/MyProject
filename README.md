@@ -16,7 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139)](https://github.com/krtannu?tab=repositories)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/)
 
-<img src="https://komarev.com/ghpvc/?username=krtannu&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 <br>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -200,25 +199,9 @@ I'm a **Computer Science Engineering student** with a passion for solving real-w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=krtannu&theme=radical&no-frame=true&no-bg=false&column=7" width="100%" alt="Trophy Stats"/>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=krtannu&show_icons=true&theme=radical&hide_border=true" alt="Tannu's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtannu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krtannu&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ## 🔍 Currently Working On
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krtannu&repo=AI-Resume-Builder&theme=radical&hide_border=true)](https://github.com/krtannu/AI-Resume-Builder)
-
-</div>
 
 <div align="center">
 <table>
@@ -264,7 +247,6 @@ I'm a **Computer Science Engineering student** with a passion for solving real-w
 <a href="https://www.linkedin.com/in/kumari-tannu-938281295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:krtannu2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="tel:9142083847"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <img src="https://raw.githubusercontent.com/jamesgeorge007/github-activity-readme/master/generated/rainbow-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
